@@ -5,8 +5,8 @@ BACKLIGHT_COLOR		#1BCDEF
 BACKLIGHT_BRIGHTNESS	1
 
 LAYER	0
-`	1	2	3	4	5	6	7	8	9	0	-	=	BS	15
-TAB	q	w	e	r	t	y	u	i	o	p	[	]	\
+`	1	2	3	4	5	6	7	8	9	0	-	=	\	15
+TAB	q	w	e	r	t	y	u	i	o	p	[	]	BS
 CTRL	a	s	d	f	g	h	j	k	l	;	'	ENTER	ENTER
 SHIFT	...	z	x	c	v	b	n	m	,	.	/       SHIFT	UP	UP
 FN_2	ALT	WIN	WIN	...	SPACE	...	FN_1	LEFT	LEFT	DOWN	RIGHT		
